@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /myPortfolio
+exclude: ['README.md']
